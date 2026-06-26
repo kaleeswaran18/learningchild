@@ -1,0 +1,138 @@
+{
+  "id": "weather",
+  "name": "Weather",
+  "items": [
+    {
+      "id": "sun",
+      "name": "Sun",
+      "image": "https://images.unsplash.com/photo-1500000000342?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "rain",
+      "name": "Rain",
+      "image": "https://images.unsplash.com/photo-1500000000426?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud",
+      "image": "https://images.unsplash.com/photo-1500000000535?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "wind",
+      "name": "Wind",
+      "image": "https://images.unsplash.com/photo-1500000000434?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "snow",
+      "name": "Snow",
+      "image": "https://images.unsplash.com/photo-1500000000455?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "storm",
+      "name": "Storm",
+      "image": "https://images.unsplash.com/photo-1500000000565?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "thunder",
+      "name": "Thunder",
+      "image": "https://images.unsplash.com/photo-1500000000762?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "lightning",
+      "name": "Lightning",
+      "image": "https://images.unsplash.com/photo-1500000000964?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "rainbow",
+      "name": "Rainbow",
+      "image": "https://images.unsplash.com/photo-1500000000754?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "fog",
+      "name": "Fog",
+      "image": "https://images.unsplash.com/photo-1500000000316?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "hail",
+      "name": "Hail",
+      "image": "https://images.unsplash.com/photo-1500000000414?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "drought",
+      "name": "Drought",
+      "image": "https://images.unsplash.com/photo-1500000000765?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "flood",
+      "name": "Flood",
+      "image": "https://images.unsplash.com/photo-1500000000532?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "breeze",
+      "name": "Breeze",
+      "image": "https://images.unsplash.com/photo-1500000000637?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "heatwave",
+      "name": "Heatwave",
+      "image": "https://images.unsplash.com/photo-1500000000853?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "cold",
+      "name": "Cold",
+      "image": "https://images.unsplash.com/photo-1500000000418?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "warm",
+      "name": "Warm",
+      "image": "https://images.unsplash.com/photo-1500000000439?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "humid",
+      "name": "Humid",
+      "image": "https://images.unsplash.com/photo-1500000000535?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "dry",
+      "name": "Dry",
+      "image": "https://images.unsplash.com/photo-1500000000335?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "forecast",
+      "name": "Forecast",
+      "image": "https://images.unsplash.com/photo-1500000000855?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "temperature",
+      "name": "Temperature",
+      "image": "https://images.unsplash.com/photo-1500000001198?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "climate",
+      "name": "Climate",
+      "image": "https://images.unsplash.com/photo-1500000000735?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    }
+  ]
+}

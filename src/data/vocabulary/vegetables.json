@@ -1,0 +1,138 @@
+{
+  "id": "vegetables",
+  "name": "Vegetables",
+  "items": [
+    {
+      "id": "carrot",
+      "name": "Carrot",
+      "image": "https://images.unsplash.com/photo-1598170845058-32b9d455a630?w=800&q=80",
+      "audio": null
+    },
+    {
+      "id": "potato",
+      "name": "Potato",
+      "image": "https://images.unsplash.com/photo-1518977676601-b53f82aba655?w=800&q=80",
+      "audio": null
+    },
+    {
+      "id": "tomato",
+      "name": "Tomato",
+      "image": "https://images.unsplash.com/photo-1546094097-2d3c6d9a3c65?w=800&q=80",
+      "audio": null
+    },
+    {
+      "id": "onion",
+      "name": "Onion",
+      "image": "https://images.unsplash.com/photo-1518977956812-cd3db0715655?w=800&q=80",
+      "audio": null
+    },
+    {
+      "id": "brinjal",
+      "name": "Brinjal",
+      "image": "https://images.unsplash.com/photo-1628773829533-3e7b037a8f07?w=800&q=80",
+      "audio": null
+    },
+    {
+      "id": "garlic",
+      "name": "Garlic",
+      "image": "https://images.unsplash.com/photo-1618375563079-5c1a0c0a0f0a?w=800&q=80",
+      "audio": null
+    },
+    {
+      "id": "cabbage",
+      "name": "Cabbage",
+      "image": "https://images.unsplash.com/photo-1594282418421-92496d219d88?w=800&q=80",
+      "audio": null
+    },
+    {
+      "id": "peas",
+      "name": "Peas",
+      "image": "https://images.unsplash.com/photo-1587735241075-53fbf76d3016?w=800&q=80",
+      "audio": null
+    },
+    {
+      "id": "okra",
+      "name": "Okra",
+      "image": "https://images.unsplash.com/photo-1607305387299-3e0c0a0a0f0a?w=800&q=80",
+      "audio": null
+    },
+    {
+      "id": "broccoli",
+      "name": "Broccoli",
+      "image": "https://images.unsplash.com/photo-1459411621453-7b03979f6742?w=800&q=80",
+      "audio": null
+    },
+    {
+      "id": "cauliflower",
+      "name": "Cauliflower",
+      "image": "https://images.unsplash.com/photo-1568584711075-53fbf76d3016?w=800&q=80",
+      "audio": null
+    },
+    {
+      "id": "cucumber",
+      "name": "Cucumber",
+      "image": "https://images.unsplash.com/photo-1604977043462-9c0c0a0a0f0a?w=800&q=80",
+      "audio": null
+    },
+    {
+      "id": "pumpkin",
+      "name": "Pumpkin",
+      "image": "https://images.unsplash.com/photo-1570586437263-040e4ab5d0d9?w=800&q=80",
+      "audio": null
+    },
+    {
+      "id": "spinach",
+      "name": "Spinach",
+      "image": "https://images.unsplash.com/photo-1576045057995-568f588f82fb?w=800&q=80",
+      "audio": null
+    },
+    {
+      "id": "corn",
+      "name": "Corn",
+      "image": "https://images.unsplash.com/photo-1551752671-98a0f0c0a0f0a?w=800&q=80",
+      "audio": null
+    },
+    {
+      "id": "bell-pepper",
+      "name": "Bell Pepper",
+      "image": "https://images.unsplash.com/photo-1563565375-f89ab7e7d060?w=800&q=80",
+      "audio": null
+    },
+    {
+      "id": "lettuce",
+      "name": "Lettuce",
+      "image": "https://images.unsplash.com/photo-1622206152918-f144a109d9c1?w=800&q=80",
+      "audio": null
+    },
+    {
+      "id": "ginger",
+      "name": "Ginger",
+      "image": "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?w=800&q=80",
+      "audio": null
+    },
+    {
+      "id": "beetroot",
+      "name": "Beetroot",
+      "image": "https://images.unsplash.com/photo-1594282418421-92496d219d88?w=800&q=80",
+      "audio": null
+    },
+    {
+      "id": "mushroom",
+      "name": "Mushroom",
+      "image": "https://images.unsplash.com/photo-1506976785307-8732e854b841?w=800&q=80",
+      "audio": null
+    },
+    {
+      "id": "radish",
+      "name": "Radish",
+      "image": "https://images.unsplash.com/photo-1594282418421-92496d219d88?w=800&q=80",
+      "audio": null
+    },
+    {
+      "id": "zucchini",
+      "name": "Zucchini",
+      "image": "https://images.unsplash.com/photo-1594282418421-92496d219d88?w=800&q=80",
+      "audio": null
+    }
+  ]
+}

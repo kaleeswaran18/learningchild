@@ -1,0 +1,138 @@
+{
+  "id": "school",
+  "name": "School",
+  "items": [
+    {
+      "id": "school",
+      "name": "School",
+      "image": "https://images.unsplash.com/photo-1500000000648?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "classroom",
+      "name": "Classroom",
+      "image": "https://images.unsplash.com/photo-1500000000979?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "library",
+      "name": "Library",
+      "image": "https://images.unsplash.com/photo-1500000000757?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "playground",
+      "name": "Playground",
+      "image": "https://images.unsplash.com/photo-1500000001093?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "cafeteria",
+      "name": "Cafeteria",
+      "image": "https://images.unsplash.com/photo-1500000000932?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "office",
+      "name": "Office",
+      "image": "https://images.unsplash.com/photo-1500000000620?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "principal",
+      "name": "Principal",
+      "image": "https://images.unsplash.com/photo-1500000000962?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "teacher",
+      "name": "Teacher",
+      "image": "https://images.unsplash.com/photo-1500000000732?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "student",
+      "name": "Student",
+      "image": "https://images.unsplash.com/photo-1500000000775?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "lesson",
+      "name": "Lesson",
+      "image": "https://images.unsplash.com/photo-1500000000660?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "exam",
+      "name": "Exam",
+      "image": "https://images.unsplash.com/photo-1500000000427?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "grade",
+      "name": "Grade",
+      "image": "https://images.unsplash.com/photo-1500000000515?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "subject",
+      "name": "Subject",
+      "image": "https://images.unsplash.com/photo-1500000000752?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "math",
+      "name": "Math",
+      "image": "https://images.unsplash.com/photo-1500000000426?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "science",
+      "name": "Science",
+      "image": "https://images.unsplash.com/photo-1500000000730?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "english",
+      "name": "English",
+      "image": "https://images.unsplash.com/photo-1500000000746?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "history",
+      "name": "History",
+      "image": "https://images.unsplash.com/photo-1500000000786?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "art",
+      "name": "Art",
+      "image": "https://images.unsplash.com/photo-1500000000327?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "music",
+      "name": "Music",
+      "image": "https://images.unsplash.com/photo-1500000000545?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "sports",
+      "name": "Sports",
+      "image": "https://images.unsplash.com/photo-1500000000683?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "bell",
+      "name": "Bell",
+      "image": "https://images.unsplash.com/photo-1500000000415?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "break",
+      "name": "Break",
+      "image": "https://images.unsplash.com/photo-1500000000517?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "id": "seasons",
+  "name": "Seasons",
+  "items": [
+    {
+      "id": "spring",
+      "name": "Spring",
+      "image": "https://images.unsplash.com/photo-1500000000659?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "summer",
+      "name": "Summer",
+      "image": "https://images.unsplash.com/photo-1500000000665?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "autumn",
+      "name": "Autumn",
+      "image": "https://images.unsplash.com/photo-1500000000666?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "winter",
+      "name": "Winter",
+      "image": "https://images.unsplash.com/photo-1500000000665?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "rainy",
+      "name": "Rainy",
+      "image": "https://images.unsplash.com/photo-1500000000547?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "sunny",
+      "name": "Sunny",
+      "image": "https://images.unsplash.com/photo-1500000000573?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "cloudy",
+      "name": "Cloudy",
+      "image": "https://images.unsplash.com/photo-1500000000656?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "windy",
+      "name": "Windy",
+      "image": "https://images.unsplash.com/photo-1500000000555?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "snowy",
+      "name": "Snowy",
+      "image": "https://images.unsplash.com/photo-1500000000576?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "foggy",
+      "name": "Foggy",
+      "image": "https://images.unsplash.com/photo-1500000000540?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "stormy",
+      "name": "Stormy",
+      "image": "https://images.unsplash.com/photo-1500000000686?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "hot",
+      "name": "Hot",
+      "image": "https://images.unsplash.com/photo-1500000000331?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "cold",
+      "name": "Cold",
+      "image": "https://images.unsplash.com/photo-1500000000418?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "warm",
+      "name": "Warm",
+      "image": "https://images.unsplash.com/photo-1500000000439?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "cool",
+      "name": "Cool",
+      "image": "https://images.unsplash.com/photo-1500000000429?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "dry",
+      "name": "Dry",
+      "image": "https://images.unsplash.com/photo-1500000000335?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "wet",
+      "name": "Wet",
+      "image": "https://images.unsplash.com/photo-1500000000336?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "humid",
+      "name": "Humid",
+      "image": "https://images.unsplash.com/photo-1500000000535?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "breeze",
+      "name": "Breeze",
+      "image": "https://images.unsplash.com/photo-1500000000637?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "heat",
+      "name": "Heat",
+      "image": "https://images.unsplash.com/photo-1500000000418?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "frost",
+      "name": "Frost",
+      "image": "https://images.unsplash.com/photo-1500000000558?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "harvest",
+      "name": "Harvest",
+      "image": "https://images.unsplash.com/photo-1500000000765?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    }
+  ]
+}

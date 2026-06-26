@@ -1,0 +1,22 @@
+.layout {
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
+}
+
+.layout__main {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: var(--bottom-nav-height);
+}
+
+@media (min-width: 768px) {
+  .layout__main {
+    padding-bottom: 0;
+  }
+}
+
+.layout--learning .layout__main {
+  padding-bottom: 0;
+}

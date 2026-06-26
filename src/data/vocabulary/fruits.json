@@ -1,0 +1,138 @@
+{
+  "id": "fruits",
+  "name": "Fruits",
+  "items": [
+    {
+      "id": "apple",
+      "name": "Apple",
+      "image": "https://images.unsplash.com/photo-1500000000530?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "banana",
+      "name": "Banana",
+      "image": "https://images.unsplash.com/photo-1500000000609?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "orange",
+      "name": "Orange",
+      "image": "https://images.unsplash.com/photo-1500000000636?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "mango",
+      "name": "Mango",
+      "image": "https://images.unsplash.com/photo-1500000000530?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "grapes",
+      "name": "Grapes",
+      "image": "https://images.unsplash.com/photo-1500000000642?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "watermelon",
+      "name": "Watermelon",
+      "image": "https://images.unsplash.com/photo-1500000001086?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "pineapple",
+      "name": "Pineapple",
+      "image": "https://images.unsplash.com/photo-1500000000958?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "strawberry",
+      "name": "Strawberry",
+      "image": "https://images.unsplash.com/photo-1500000001109?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "blueberry",
+      "name": "Blueberry",
+      "image": "https://images.unsplash.com/photo-1500000000972?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "cherry",
+      "name": "Cherry",
+      "image": "https://images.unsplash.com/photo-1500000000653?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "peach",
+      "name": "Peach",
+      "image": "https://images.unsplash.com/photo-1500000000513?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "pear",
+      "name": "Pear",
+      "image": "https://images.unsplash.com/photo-1500000000424?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "kiwi",
+      "name": "Kiwi",
+      "image": "https://images.unsplash.com/photo-1500000000436?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "papaya",
+      "name": "Papaya",
+      "image": "https://images.unsplash.com/photo-1500000000636?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "pomegranate",
+      "name": "Pomegranate",
+      "image": "https://images.unsplash.com/photo-1500000001171?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "coconut",
+      "name": "Coconut",
+      "image": "https://images.unsplash.com/photo-1500000000763?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "lemon",
+      "name": "Lemon",
+      "image": "https://images.unsplash.com/photo-1500000000539?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "guava",
+      "name": "Guava",
+      "image": "https://images.unsplash.com/photo-1500000000532?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "plum",
+      "name": "Plum",
+      "image": "https://images.unsplash.com/photo-1500000000446?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "apricot",
+      "name": "Apricot",
+      "image": "https://images.unsplash.com/photo-1500000000754?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "fig",
+      "name": "Fig",
+      "image": "https://images.unsplash.com/photo-1500000000310?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "lychee",
+      "name": "Lychee",
+      "image": "https://images.unsplash.com/photo-1500000000634?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    }
+  ]
+}
