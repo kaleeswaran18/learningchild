@@ -5,133 +5,121 @@
     {
       "id": "circle",
       "name": "Circle",
-      "image": "https://dummyimage.com/800x800/ffffff/ff0000.png&text=%E2%97%8F",
+      "image": "",
       "audio": null
     },
     {
       "id": "square",
       "name": "Square",
-      "image": "https://dummyimage.com/800x800/ffffff/0066ff.png&text=%E2%96%A0",
+      "image": "",
       "audio": null
     },
     {
       "id": "triangle",
       "name": "Triangle",
-      "image": "https://dummyimage.com/800x800/ffffff/00aa00.png&text=%E2%96%B2",
+      "image": "",
       "audio": null
     },
     {
       "id": "rectangle",
       "name": "Rectangle",
-      "image": "https://dummyimage.com/800x800/ffffff/ff8800.png&text=%E2%96%AC",
+      "image": "",
       "audio": null
     },
     {
       "id": "oval",
       "name": "Oval",
-      "image": "https://dummyimage.com/800x800/ffffff/800080.png&text=%E2%AC%AD",
+      "image": "",
       "audio": null
     },
     {
       "id": "star",
       "name": "Star",
-      "image": "https://dummyimage.com/800x800/ffffff/ffd700.png&text=%E2%98%85",
+      "image": "",
       "audio": null
     },
     {
       "id": "heart",
       "name": "Heart",
-      "image": "https://dummyimage.com/800x800/ffffff/ff1493.png&text=%E2%9D%A4",
+      "image": "",
       "audio": null
     },
     {
       "id": "diamond",
       "name": "Diamond",
-      "image": "https://dummyimage.com/800x800/ffffff/00ced1.png&text=%E2%97%86",
+      "image": "",
       "audio": null
     },
     {
       "id": "pentagon",
       "name": "Pentagon",
-      "image": "https://dummyimage.com/800x800/ffffff/8a2be2.png&text=%E2%AC%9F",
+      "image": "",
       "audio": null
     },
     {
       "id": "hexagon",
       "name": "Hexagon",
-      "image": "https://dummyimage.com/800x800/ffffff/20b2aa.png&text=%E2%AC%A2",
+      "image": "",
       "audio": null
     },
     {
       "id": "octagon",
       "name": "Octagon",
-      "image": "https://dummyimage.com/800x800/ffffff/dc143c.png&text=%F0%9F%9B%91",
-      "audio": null
-    },
-    {
-      "id": "cube",
-      "name": "Cube",
-      "image": "https://dummyimage.com/800x800/ffffff/555555.png&text=%F0%9F%A7%8A",
-      "audio": null
-    },
-    {
-      "id": "sphere",
-      "name": "Sphere",
-      "image": "https://dummyimage.com/800x800/ffffff/1e90ff.png&text=%F0%9F%94%B5",
-      "audio": null
-    },
-    {
-      "id": "cylinder",
-      "name": "Cylinder",
-      "image": "https://dummyimage.com/800x800/ffffff/808080.png&text=%F0%9F%A5%AB",
-      "audio": null
-    },
-    {
-      "id": "cone",
-      "name": "Cone",
-      "image": "https://dummyimage.com/800x800/ffffff/ff4500.png&text=%F0%9F%94%BA",
-      "audio": null
-    },
-    {
-      "id": "pyramid",
-      "name": "Pyramid",
-      "image": "https://dummyimage.com/800x800/ffffff/b8860b.png&text=%F0%9F%94%BA",
+      "image": "",
       "audio": null
     },
     {
       "id": "crescent",
       "name": "Crescent",
-      "image": "https://dummyimage.com/800x800/ffffff/f4c430.png&text=%F0%9F%8C%99",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "semicircle",
+      "name": "Semicircle",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "cube",
+      "name": "Cube",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "sphere",
+      "name": "Sphere",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "cone",
+      "name": "Cone",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "cylinder",
+      "name": "Cylinder",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "pyramid",
+      "name": "Pyramid",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "oval_ring",
+      "name": "Oval Ring",
+      "image": "",
       "audio": null
     },
     {
       "id": "cross",
       "name": "Cross",
-      "image": "https://dummyimage.com/800x800/ffffff/000000.png&text=%E2%9C%9A",
-      "audio": null
-    },
-    {
-      "id": "arrow",
-      "name": "Arrow",
-      "image": "https://dummyimage.com/800x800/ffffff/008000.png&text=%E2%9E%9C",
-      "audio": null
-    },
-    {
-      "id": "line",
-      "name": "Line",
-      "image": "https://dummyimage.com/800x800/ffffff/000000.png&text=%E2%80%95",
-      "audio": null
-    },
-    {
-      "id": "wave",
-      "name": "Wave",
-      "image": "https://dummyimage.com/800x800/ffffff/1e90ff.png&text=%E3%80%B0",
-      "audio": null
-    },
-    {
-      "id": "spiral",
-      "name": "Spiral",
-      "image": "https://dummyimage.com/800x800/ffffff/9932cc.png&text=%F0%9F%8C%80",
+      "image": "",
       "audio": null
     }
   ]

@@ -1,143 +1,77 @@
 {
-  "id": "months",
-  "name": "Months",
+  "id": "months_of_the_year",
+  "name": "Months of the Year",
   "items": [
     {
       "id": "january",
       "name": "January",
-      "image": "https://images.unsplash.com/photo-1500000000762?w=800&q=80&auto=format&fit=crop",
+      "image": "",
       "audio": null
     },
     {
       "id": "february",
       "name": "February",
-      "image": "https://images.unsplash.com/photo-1500000000864?w=800&q=80&auto=format&fit=crop",
+      "image": "",
       "audio": null
     },
     {
       "id": "march",
       "name": "March",
-      "image": "https://images.unsplash.com/photo-1500000000523?w=800&q=80&auto=format&fit=crop",
+      "image": "",
       "audio": null
     },
     {
       "id": "april",
       "name": "April",
-      "image": "https://images.unsplash.com/photo-1500000000536?w=800&q=80&auto=format&fit=crop",
+      "image": "",
       "audio": null
     },
     {
       "id": "may",
       "name": "May",
-      "image": "https://images.unsplash.com/photo-1500000000327?w=800&q=80&auto=format&fit=crop",
+      "image": "",
       "audio": null
     },
     {
       "id": "june",
       "name": "June",
-      "image": "https://images.unsplash.com/photo-1500000000434?w=800&q=80&auto=format&fit=crop",
+      "image": "",
       "audio": null
     },
     {
       "id": "july",
       "name": "July",
-      "image": "https://images.unsplash.com/photo-1500000000452?w=800&q=80&auto=format&fit=crop",
+      "image": "",
       "audio": null
     },
     {
       "id": "august",
       "name": "August",
-      "image": "https://images.unsplash.com/photo-1500000000665?w=800&q=80&auto=format&fit=crop",
+      "image": "",
       "audio": null
     },
     {
       "id": "september",
       "name": "September",
-      "image": "https://images.unsplash.com/photo-1500000000967?w=800&q=80&auto=format&fit=crop",
+      "image": "",
       "audio": null
     },
     {
       "id": "october",
       "name": "October",
-      "image": "https://images.unsplash.com/photo-1500000000750?w=800&q=80&auto=format&fit=crop",
+      "image": "",
       "audio": null
     },
     {
       "id": "november",
       "name": "November",
-      "image": "https://images.unsplash.com/photo-1500000000862?w=800&q=80&auto=format&fit=crop",
+      "image": "",
       "audio": null
     },
     {
       "id": "december",
       "name": "December",
-      "image": "https://images.unsplash.com/photo-1500000000823?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "spring",
-      "name": "Spring",
-      "image": "https://images.unsplash.com/photo-1500000000659?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "summer",
-      "name": "Summer",
-      "image": "https://images.unsplash.com/photo-1500000000665?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "autumn",
-      "name": "Autumn",
-      "image": "https://images.unsplash.com/photo-1500000000666?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "winter",
-      "name": "Winter",
-      "image": "https://images.unsplash.com/photo-1500000000665?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "season",
-      "name": "Season",
-      "image": "https://images.unsplash.com/photo-1500000000649?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "year",
-      "name": "Year",
-      "image": "https://images.unsplash.com/photo-1500000000433?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "month",
-      "name": "Month",
-      "image": "https://images.unsplash.com/photo-1500000000550?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "date",
-      "name": "Date",
-      "image": "https://images.unsplash.com/photo-1500000000414?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "birthday",
-      "name": "Birthday",
-      "image": "https://images.unsplash.com/photo-1500000000855?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "holiday",
-      "name": "Holiday",
-      "image": "https://images.unsplash.com/photo-1500000000746?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "festival",
-      "name": "Festival",
-      "image": "https://images.unsplash.com/photo-1500000000862?w=800&q=80&auto=format&fit=crop",
+      "image": "",
       "audio": null
     }
   ]

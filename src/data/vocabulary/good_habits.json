@@ -1,0 +1,156 @@
+{
+  "id": "good_habits",
+  "name": "Good Habits",
+  "items": [
+    {
+      "id": "brush_teeth",
+      "name": "Brush Teeth",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "wash_hands",
+      "name": "Wash Hands",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "take_a_bath",
+      "name": "Take a Bath",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "comb_hair",
+      "name": "Comb Hair",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "wear_clean_clothes",
+      "name": "Wear Clean Clothes",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "eat_healthy_food",
+      "name": "Eat Healthy Food",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "drink_water",
+      "name": "Drink Water",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "sleep_early",
+      "name": "Sleep Early",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "wake_up_early",
+      "name": "Wake Up Early",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "exercise",
+      "name": "Exercise",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "read_books",
+      "name": "Read Books",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "study_daily",
+      "name": "Study Daily",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "do_homework",
+      "name": "Do Homework",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "keep_things_tidy",
+      "name": "Keep Things Tidy",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "clean_your_room",
+      "name": "Clean Your Room",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "share_with_others",
+      "name": "Share with Others",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "help_others",
+      "name": "Help Others",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "say_please",
+      "name": "Say Please",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "say_thank_you",
+      "name": "Say Thank You",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "say_sorry",
+      "name": "Say Sorry",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "tell_the_truth",
+      "name": "Tell the Truth",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "be_kind",
+      "name": "Be Kind",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "respect_elders",
+      "name": "Respect Elders",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "save_water",
+      "name": "Save Water",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "save_electricity",
+      "name": "Save Electricity",
+      "image": "",
+      "audio": null
+    }
+  ]
+}

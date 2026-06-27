@@ -2,137 +2,55 @@
   "id": "fruits",
   "name": "Fruits",
   "items": [
-    {
-      "id": "apple",
-      "name": "Apple",
-      "image": "https://images.unsplash.com/photo-1500000000530?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "banana",
-      "name": "Banana",
-      "image": "https://images.unsplash.com/photo-1500000000609?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "orange",
-      "name": "Orange",
-      "image": "https://images.unsplash.com/photo-1500000000636?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "mango",
-      "name": "Mango",
-      "image": "https://images.unsplash.com/photo-1500000000530?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "grapes",
-      "name": "Grapes",
-      "image": "https://images.unsplash.com/photo-1500000000642?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "watermelon",
-      "name": "Watermelon",
-      "image": "https://images.unsplash.com/photo-1500000001086?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "pineapple",
-      "name": "Pineapple",
-      "image": "https://images.unsplash.com/photo-1500000000958?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "strawberry",
-      "name": "Strawberry",
-      "image": "https://images.unsplash.com/photo-1500000001109?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "blueberry",
-      "name": "Blueberry",
-      "image": "https://images.unsplash.com/photo-1500000000972?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "cherry",
-      "name": "Cherry",
-      "image": "https://images.unsplash.com/photo-1500000000653?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "peach",
-      "name": "Peach",
-      "image": "https://images.unsplash.com/photo-1500000000513?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "pear",
-      "name": "Pear",
-      "image": "https://images.unsplash.com/photo-1500000000424?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "kiwi",
-      "name": "Kiwi",
-      "image": "https://images.unsplash.com/photo-1500000000436?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "papaya",
-      "name": "Papaya",
-      "image": "https://images.unsplash.com/photo-1500000000636?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "pomegranate",
-      "name": "Pomegranate",
-      "image": "https://images.unsplash.com/photo-1500000001171?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "coconut",
-      "name": "Coconut",
-      "image": "https://images.unsplash.com/photo-1500000000763?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "lemon",
-      "name": "Lemon",
-      "image": "https://images.unsplash.com/photo-1500000000539?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "guava",
-      "name": "Guava",
-      "image": "https://images.unsplash.com/photo-1500000000532?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "plum",
-      "name": "Plum",
-      "image": "https://images.unsplash.com/photo-1500000000446?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "apricot",
-      "name": "Apricot",
-      "image": "https://images.unsplash.com/photo-1500000000754?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "fig",
-      "name": "Fig",
-      "image": "https://images.unsplash.com/photo-1500000000310?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "lychee",
-      "name": "Lychee",
-      "image": "https://images.unsplash.com/photo-1500000000634?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    }
+    { "id": "apple", "name": "Apple", "image": null, "audio": null },
+    { "id": "banana", "name": "Banana", "image": null, "audio": null },
+    { "id": "orange", "name": "Orange", "image": null, "audio": null },
+    { "id": "mango", "name": "Mango", "image": null, "audio": null },
+    { "id": "grapes", "name": "Grapes", "image": null, "audio": null },
+    { "id": "pineapple", "name": "Pineapple", "image": null, "audio": null },
+    { "id": "watermelon", "name": "Watermelon", "image": null, "audio": null },
+    { "id": "papaya", "name": "Papaya", "image": null, "audio": null },
+    { "id": "guava", "name": "Guava", "image": null, "audio": null },
+    { "id": "strawberry", "name": "Strawberry", "image": null, "audio": null },
+    { "id": "cherry", "name": "Cherry", "image": null, "audio": null },
+    { "id": "pear", "name": "Pear", "image": null, "audio": null },
+    { "id": "peach", "name": "Peach", "image": null, "audio": null },
+    { "id": "plum", "name": "Plum", "image": null, "audio": null },
+    { "id": "kiwi", "name": "Kiwi", "image": null, "audio": null },
+    { "id": "pomegranate", "name": "Pomegranate", "image": null, "audio": null },
+    { "id": "lemon", "name": "Lemon", "image": null, "audio": null },
+    { "id": "lime", "name": "Lime", "image": null, "audio": null },
+    { "id": "coconut", "name": "Coconut", "image": null, "audio": null },
+    { "id": "avocado", "name": "Avocado", "image": null, "audio": null },
+    { "id": "dragon_fruit", "name": "Dragon Fruit", "image": null, "audio": null },
+    { "id": "jackfruit", "name": "Jackfruit", "image": null, "audio": null },
+    { "id": "lychee", "name": "Lychee", "image": null, "audio": null },
+    { "id": "rambutan", "name": "Rambutan", "image": null, "audio": null },
+    { "id": "passion_fruit", "name": "Passion Fruit", "image": null, "audio": null },
+    { "id": "blueberry", "name": "Blueberry", "image": null, "audio": null },
+    { "id": "blackberry", "name": "Blackberry", "image": null, "audio": null },
+    { "id": "raspberry", "name": "Raspberry", "image": null, "audio": null },
+    { "id": "cranberry", "name": "Cranberry", "image": null, "audio": null },
+    { "id": "mulberry", "name": "Mulberry", "image": null, "audio": null },
+    { "id": "fig", "name": "Fig", "image": null, "audio": null },
+    { "id": "date", "name": "Date", "image": null, "audio": null },
+    { "id": "apricot", "name": "Apricot", "image": null, "audio": null },
+    { "id": "nectarine", "name": "Nectarine", "image": null, "audio": null },
+    { "id": "cantaloupe", "name": "Cantaloupe", "image": null, "audio": null },
+    { "id": "honeydew_melon", "name": "Honeydew Melon", "image": null, "audio": null },
+    { "id": "star_fruit", "name": "Star Fruit", "image": null, "audio": null },
+    { "id": "persimmon", "name": "Persimmon", "image": null, "audio": null },
+    { "id": "durian", "name": "Durian", "image": null, "audio": null },
+    { "id": "mangosteen", "name": "Mangosteen", "image": null, "audio": null },
+    { "id": "gooseberry", "name": "Gooseberry", "image": null, "audio": null },
+    { "id": "sapota", "name": "Sapota", "image": null, "audio": null },
+    { "id": "custard_apple", "name": "Custard Apple", "image": null, "audio": null },
+    { "id": "wood_apple", "name": "Wood Apple", "image": null, "audio": null },
+    { "id": "indian_gooseberry", "name": "Indian Gooseberry", "image": null, "audio": null },
+    { "id": "sweet_lime", "name": "Sweet Lime", "image": null, "audio": null },
+    { "id": "tamarind", "name": "Tamarind", "image": null, "audio": null },
+    { "id": "olive", "name": "Olive", "image": null, "audio": null },
+    { "id": "longan", "name": "Longan", "image": null, "audio": null },
+    { "id": "breadfruit", "name": "Breadfruit", "image": null, "audio": null }
   ]
 }

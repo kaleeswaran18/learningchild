@@ -1,137 +1,47 @@
 {
-  "id": "days",
-  "name": "Days",
+  "id": "days_of_the_week",
+  "name": "Days of the Week",
   "items": [
     {
       "id": "monday",
       "name": "Monday",
-      "image": "https://images.unsplash.com/photo-1500000000648?w=800&q=80&auto=format&fit=crop",
+      "image": "",
       "audio": null
     },
     {
       "id": "tuesday",
       "name": "Tuesday",
-      "image": "https://images.unsplash.com/photo-1500000000767?w=800&q=80&auto=format&fit=crop",
+      "image": "",
       "audio": null
     },
     {
       "id": "wednesday",
       "name": "Wednesday",
-      "image": "https://images.unsplash.com/photo-1500000000964?w=800&q=80&auto=format&fit=crop",
+      "image": "",
       "audio": null
     },
     {
       "id": "thursday",
       "name": "Thursday",
-      "image": "https://images.unsplash.com/photo-1500000000884?w=800&q=80&auto=format&fit=crop",
+      "image": "",
       "audio": null
     },
     {
       "id": "friday",
       "name": "Friday",
-      "image": "https://images.unsplash.com/photo-1500000000639?w=800&q=80&auto=format&fit=crop",
+      "image": "",
       "audio": null
     },
     {
       "id": "saturday",
       "name": "Saturday",
-      "image": "https://images.unsplash.com/photo-1500000000877?w=800&q=80&auto=format&fit=crop",
+      "image": "",
       "audio": null
     },
     {
       "id": "sunday",
       "name": "Sunday",
-      "image": "https://images.unsplash.com/photo-1500000000660?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "today",
-      "name": "Today",
-      "image": "https://images.unsplash.com/photo-1500000000545?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "tomorrow",
-      "name": "Tomorrow",
-      "image": "https://images.unsplash.com/photo-1500000000905?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "yesterday",
-      "name": "Yesterday",
-      "image": "https://images.unsplash.com/photo-1500000000986?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "morning",
-      "name": "Morning",
-      "image": "https://images.unsplash.com/photo-1500000000762?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "afternoon",
-      "name": "Afternoon",
-      "image": "https://images.unsplash.com/photo-1500000000972?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "evening",
-      "name": "Evening",
-      "image": "https://images.unsplash.com/photo-1500000000748?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "night",
-      "name": "Night",
-      "image": "https://images.unsplash.com/photo-1500000000538?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "week",
-      "name": "Week",
-      "image": "https://images.unsplash.com/photo-1500000000428?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "weekend",
-      "name": "Weekend",
-      "image": "https://images.unsplash.com/photo-1500000000739?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "weekday",
-      "name": "Weekday",
-      "image": "https://images.unsplash.com/photo-1500000000746?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "day",
-      "name": "Day",
-      "image": "https://images.unsplash.com/photo-1500000000318?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "hour",
-      "name": "Hour",
-      "image": "https://images.unsplash.com/photo-1500000000446?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "minute",
-      "name": "Minute",
-      "image": "https://images.unsplash.com/photo-1500000000658?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "second",
-      "name": "Second",
-      "image": "https://images.unsplash.com/photo-1500000000636?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "noon",
-      "name": "Noon",
-      "image": "https://images.unsplash.com/photo-1500000000442?w=800&q=80&auto=format&fit=crop",
+      "image": "",
       "audio": null
     }
   ]

@@ -1,124 +1,124 @@
 {
-  "id": "family",
-  "name": "Family",
+  "id": "common_symbols",
+  "name": "Common Symbols",
   "items": [
     {
-      "id": "neighbor",
-      "name": "Neighbor",
+      "id": "heart",
+      "name": "Heart",
       "image": "",
       "audio": null
     },
     {
-      "id": "father",
-      "name": "Father",
+      "id": "star",
+      "name": "Star",
       "image": "",
       "audio": null
     },
     {
-      "id": "mother",
-      "name": "Mother",
+      "id": "check_mark",
+      "name": "Check Mark",
       "image": "",
       "audio": null
     },
     {
-      "id": "brother",
-      "name": "Brother",
+      "id": "cross_mark",
+      "name": "Cross Mark",
       "image": "",
       "audio": null
     },
     {
-      "id": "sister",
-      "name": "Sister",
+      "id": "plus",
+      "name": "Plus",
       "image": "",
       "audio": null
     },
     {
-      "id": "baby",
-      "name": "Baby",
+      "id": "minus",
+      "name": "Minus",
       "image": "",
       "audio": null
     },
     {
-      "id": "grandfather",
-      "name": "Grandfather",
+      "id": "multiply",
+      "name": "Multiply",
       "image": "",
       "audio": null
     },
     {
-      "id": "grandmother",
-      "name": "Grandmother",
+      "id": "divide",
+      "name": "Divide",
       "image": "",
       "audio": null
     },
     {
-      "id": "uncle",
-      "name": "Uncle",
+      "id": "equal",
+      "name": "Equal",
       "image": "",
       "audio": null
     },
     {
-      "id": "aunt",
-      "name": "Aunt",
+      "id": "percent",
+      "name": "Percent",
       "image": "",
       "audio": null
     },
     {
-      "id": "cousin",
-      "name": "Cousin",
+      "id": "rupee",
+      "name": "Rupee",
       "image": "",
       "audio": null
     },
     {
-      "id": "son",
-      "name": "Son",
+      "id": "dollar",
+      "name": "Dollar",
       "image": "",
       "audio": null
     },
     {
-      "id": "daughter",
-      "name": "Daughter",
+      "id": "at",
+      "name": "At",
       "image": "",
       "audio": null
     },
     {
-      "id": "grandpa",
-      "name": "Grandpa",
+      "id": "hash",
+      "name": "Hash",
       "image": "",
       "audio": null
     },
     {
-      "id": "grandma",
-      "name": "Grandma",
+      "id": "ampersand",
+      "name": "Ampersand",
       "image": "",
       "audio": null
     },
     {
-      "id": "boy",
-      "name": "Boy",
+      "id": "question_mark",
+      "name": "Question Mark",
       "image": "",
       "audio": null
     },
     {
-      "id": "girl",
-      "name": "Girl",
+      "id": "exclamation_mark",
+      "name": "Exclamation Mark",
       "image": "",
       "audio": null
     },
     {
-      "id": "child",
-      "name": "Child",
+      "id": "full_stop",
+      "name": "Full Stop",
       "image": "",
       "audio": null
     },
     {
-      "id": "parents",
-      "name": "Parents",
+      "id": "comma",
+      "name": "Comma",
       "image": "",
       "audio": null
     },
     {
-      "id": "home",
-      "name": "Home",
+      "id": "slash",
+      "name": "Slash",
       "image": "",
       "audio": null
     }

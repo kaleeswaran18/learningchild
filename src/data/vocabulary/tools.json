@@ -5,133 +5,151 @@
     {
       "id": "hammer",
       "name": "Hammer",
-      "image": "https://images.unsplash.com/photo-1500000000634?w=800&q=80&auto=format&fit=crop",
+      "image": "",
       "audio": null
     },
     {
       "id": "screwdriver",
       "name": "Screwdriver",
-      "image": "https://images.unsplash.com/photo-1500000001200?w=800&q=80&auto=format&fit=crop",
+      "image": "",
       "audio": null
     },
     {
       "id": "wrench",
       "name": "Wrench",
-      "image": "https://images.unsplash.com/photo-1500000000647?w=800&q=80&auto=format&fit=crop",
+      "image": "",
       "audio": null
     },
     {
       "id": "pliers",
       "name": "Pliers",
-      "image": "https://images.unsplash.com/photo-1500000000655?w=800&q=80&auto=format&fit=crop",
+      "image": "",
       "audio": null
     },
     {
       "id": "saw",
       "name": "Saw",
-      "image": "https://images.unsplash.com/photo-1500000000331?w=800&q=80&auto=format&fit=crop",
+      "image": "",
       "audio": null
     },
     {
       "id": "drill",
       "name": "Drill",
-      "image": "https://images.unsplash.com/photo-1500000000535?w=800&q=80&auto=format&fit=crop",
+      "image": "",
       "audio": null
     },
     {
-      "id": "knife",
-      "name": "Knife",
-      "image": "https://images.unsplash.com/photo-1500000000525?w=800&q=80&auto=format&fit=crop",
+      "id": "tape_measure",
+      "name": "Tape Measure",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "ruler",
+      "name": "Ruler",
+      "image": "",
       "audio": null
     },
     {
       "id": "scissors",
       "name": "Scissors",
-      "image": "https://images.unsplash.com/photo-1500000000889?w=800&q=80&auto=format&fit=crop",
+      "image": "",
       "audio": null
     },
     {
-      "id": "tape",
-      "name": "Tape",
-      "image": "https://images.unsplash.com/photo-1500000000426?w=800&q=80&auto=format&fit=crop",
+      "id": "utility_knife",
+      "name": "Utility Knife",
+      "image": "",
       "audio": null
     },
     {
-      "id": "rope",
-      "name": "Rope",
-      "image": "https://images.unsplash.com/photo-1500000000438?w=800&q=80&auto=format&fit=crop",
+      "id": "paint_brush",
+      "name": "Paint Brush",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "paint_roller",
+      "name": "Paint Roller",
+      "image": "",
       "audio": null
     },
     {
       "id": "ladder",
       "name": "Ladder",
-      "image": "https://images.unsplash.com/photo-1500000000620?w=800&q=80&auto=format&fit=crop",
+      "image": "",
       "audio": null
     },
     {
-      "id": "brush",
-      "name": "Brush",
-      "image": "https://images.unsplash.com/photo-1500000000548?w=800&q=80&auto=format&fit=crop",
+      "id": "toolbox",
+      "name": "Toolbox",
+      "image": "",
       "audio": null
     },
     {
-      "id": "paint",
-      "name": "Paint",
-      "image": "https://images.unsplash.com/photo-1500000000540?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "nail",
-      "name": "Nail",
-      "image": "https://images.unsplash.com/photo-1500000000420?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "screw",
-      "name": "Screw",
-      "image": "https://images.unsplash.com/photo-1500000000548?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "bolt",
-      "name": "Bolt",
-      "image": "https://images.unsplash.com/photo-1500000000433?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "wire",
-      "name": "Wire",
-      "image": "https://images.unsplash.com/photo-1500000000439?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "chain",
-      "name": "Chain",
-      "image": "https://images.unsplash.com/photo-1500000000515?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "hook",
-      "name": "Hook",
-      "image": "https://images.unsplash.com/photo-1500000000433?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "clamp",
-      "name": "Clamp",
-      "image": "https://images.unsplash.com/photo-1500000000525?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "level",
-      "name": "Level",
-      "image": "https://images.unsplash.com/photo-1500000000536?w=800&q=80&auto=format&fit=crop",
+      "id": "flashlight",
+      "name": "Flashlight",
+      "image": "",
       "audio": null
     },
     {
       "id": "shovel",
       "name": "Shovel",
-      "image": "https://images.unsplash.com/photo-1500000000657?w=800&q=80&auto=format&fit=crop",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "spade",
+      "name": "Spade",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "rake",
+      "name": "Rake",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "watering_can",
+      "name": "Watering Can",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "trowel",
+      "name": "Trowel",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "glue_gun",
+      "name": "Glue Gun",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "sandpaper",
+      "name": "Sandpaper",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "clamp",
+      "name": "Clamp",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "safety_helmet",
+      "name": "Safety Helmet",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "wheelbarrow",
+      "name": "Wheelbarrow",
+      "image": "",
       "audio": null
     }
   ]

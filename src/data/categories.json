@@ -1,227 +1,131 @@
 {
   "categories": [
     {
-      "id": "basics",
-      "name": "Basics",
+      "id": "living_things",
+      "name": "Living Things",
+      "emoji": "🐾",
+      "image": "https://images.unsplash.com/photo-1474511320723-9a56873867b5?w=600&q=80",
+      "subcategories": [
+        { "id": "farm_animals",        "name": "Farm Animals",        "image": "https://images.unsplash.com/photo-1500595046743-cd271d694d30?w=600&q=80", "vocabularyFile": "farm_animals.json" },
+        { "id": "wild_animals",        "name": "Wild Animals",        "image": "https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?w=600&q=80", "vocabularyFile": "wild_animals.json" },
+        { "id": "reptiles_amphibians", "name": "Reptiles & Amphibians","image": "https://images.unsplash.com/photo-1510832198440-a52376950479?w=600&q=80", "vocabularyFile": "reptiles_amphibians.json" },
+        { "id": "sea_creatures",       "name": "Sea Creatures",       "image": "https://images.unsplash.com/photo-1518020382113-a7e8fc38eac9?w=600&q=80", "vocabularyFile": "sea_creatures.json" },
+        { "id": "insects",             "name": "Insects",             "image": "https://images.unsplash.com/photo-1550159930-40066082a4fc?w=600&q=80", "vocabularyFile": "insects.json" },
+        { "id": "birds",               "name": "Birds",               "image": "https://images.unsplash.com/photo-1444464666168-49d633b86797?w=600&q=80", "vocabularyFile": "birds.json" }
+      ]
+    },
+    {
+      "id": "nature_environment",
+      "name": "Nature & Environment",
+      "emoji": "🌿",
+      "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=600&q=80",
+      "subcategories": [
+        { "id": "flowers",          "name": "Flowers",          "image": "https://images.unsplash.com/photo-1490750967868-88df5691cc1e?w=600&q=80", "vocabularyFile": "flowers.json" },
+        { "id": "trees",            "name": "Trees",            "image": "https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?w=600&q=80", "vocabularyFile": "trees.json" },
+        { "id": "nature",           "name": "Nature",           "image": "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=600&q=80", "vocabularyFile": "nature.json" },
+        { "id": "weather",          "name": "Weather",          "image": "https://images.unsplash.com/photo-1504608524841-42584120d693?w=600&q=80", "vocabularyFile": "weather.json" },
+        { "id": "space",            "name": "Space",            "image": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=600&q=80", "vocabularyFile": "space.json" }
+      ]
+    },
+    {
+      "id": "food_plants",
+      "name": "Food & Plants",
+      "emoji": "🍎",
+      "image": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=600&q=80",
+      "subcategories": [
+        { "id": "fruits",      "name": "Fruits",      "image": "https://images.unsplash.com/photo-1619566636858-adf3ef46400b?w=600&q=80", "vocabularyFile": "fruits.json" },
+        { "id": "vegetables",  "name": "Vegetables",  "image": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=600&q=80", "vocabularyFile": "vegetables.json" },
+        { "id": "food",        "name": "Food",        "image": "https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?w=600&q=80", "vocabularyFile": "food.json" }
+      ]
+    },
+    {
+      "id": "people_society",
+      "name": "People & Society",
+      "emoji": "👨‍👩‍👧",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=600&q=80",
+      "subcategories": [
+        { "id": "family",    "name": "Family",    "image": "https://images.unsplash.com/photo-1511895426328-dc8714191011?w=600&q=80", "vocabularyFile": "family.json" },
+        { "id": "school",    "name": "School",    "image": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=600&q=80", "vocabularyFile": "school.json" },
+        { "id": "social",    "name": "Social",    "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=600&q=80", "vocabularyFile": "social.json" },
+        { "id": "festivals", "name": "Festivals", "image": "https://images.unsplash.com/photo-1514222134-b57cbb8ce073?w=600&q=80", "vocabularyFile": "festivals.json" }
+      ]
+    },
+    {
+      "id": "everyday_life",
+      "name": "Everyday Life",
+      "emoji": "🏠",
+      "image": "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=600&q=80",
+      "subcategories": [
+        { "id": "home_furniture", "name": "Home & Furniture", "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=600&q=80", "vocabularyFile": "home_furniture.json" },
+        { "id": "body_parts",     "name": "Body Parts",      "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?w=600&q=80", "vocabularyFile": "body_parts.json" },
+        { "id": "daily_routine",  "name": "Daily Routine",   "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80", "vocabularyFile": "daily_routine.json" },
+        { "id": "good_habits",    "name": "Good Habits",     "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=600&q=80", "vocabularyFile": "good_habits.json" },
+        { "id": "health",         "name": "Health",          "image": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?w=600&q=80", "vocabularyFile": "health.json" }
+      ]
+    },
+    {
+      "id": "language_learning",
+      "name": "Language & Learning",
       "emoji": "🔤",
       "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=600&q=80",
       "subcategories": [
         { "id": "alphabets",      "name": "Alphabets",      "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=80", "vocabularyFile": "alphabets.json" },
-        { "id": "numbers",        "name": "Numbers",        "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=600&q=80", "vocabularyFile": "numbers.json" },
-        { "id": "colors",         "name": "Colors",         "image": "https://images.unsplash.com/photo-1541701494587-c5851ff8a111?w=600&q=80", "vocabularyFile": "colors.json" },
-        { "id": "shapes",         "name": "Shapes",         "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=600&q=80", "vocabularyFile": "shapes.json" },
-        { "id": "opposite-words", "name": "Opposite Words", "image": "https://images.unsplash.com/photo-1454789548928-9efd52dc4031?w=600&q=80", "vocabularyFile": "opposite-words.json" },
-        { "id": "comparisons",    "name": "Comparisons",    "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=600&q=80", "vocabularyFile": "comparisons.json" },
-        { "id": "common-symbols", "name": "Common Symbols", "image": "https://images.unsplash.com/photo-1614332287897-cdc485fa562d?w=600&q=80", "vocabularyFile": "common-symbols.json" }
+        { "id": "numbers",        "name": "Numbers",        "image": "https://images.unsplash.com/photo-1509228627152-72ae9ae6848d?w=600&q=80", "vocabularyFile": "numbers.json" },
+        { "id": "colors",         "name": "Colors",         "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=600&q=80", "vocabularyFile": "colors.json" },
+        { "id": "shapes",         "name": "Shapes",         "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&q=80", "vocabularyFile": "shapes.json" },
+        { "id": "lines",          "name": "Lines",          "image": "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=600&q=80", "vocabularyFile": "lines.json" },
+        { "id": "opposite_words", "name": "Opposite Words", "image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=600&q=80", "vocabularyFile": "opposite_words.json" },
+        { "id": "basic_grammar",  "name": "Basic Grammar",  "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=80", "vocabularyFile": "basic_grammar.json" }
       ]
     },
     {
-      "id": "time-calendar",
-      "name": "Time & Calendar",
-      "emoji": "📅",
-      "image": "https://images.unsplash.com/photo-1624969862293-b749659ccc4e?w=600&q=80",
-      "subcategories": [
-        { "id": "days-of-week",        "name": "Days of Week",        "image": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=600&q=80", "vocabularyFile": "days-of-week.json" },
-        { "id": "months",              "name": "Months",              "image": "https://images.unsplash.com/photo-1517867065801-e20f409696b0?w=600&q=80", "vocabularyFile": "months.json" },
-        { "id": "seasons",             "name": "Seasons",             "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=600&q=80", "vocabularyFile": "seasons.json" },
-        { "id": "time",                "name": "Time",                "image": "https://images.unsplash.com/photo-1508962914676-134849a727f0?w=600&q=80", "vocabularyFile": "time.json" },
-        { "id": "today",               "name": "Today",               "image": "https://images.unsplash.com/photo-1495364141860-b0d03eccd065?w=600&q=80", "vocabularyFile": "today.json" },
-        { "id": "tomorrow",            "name": "Tomorrow",            "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&q=80", "vocabularyFile": "tomorrow.json" },
-        { "id": "yesterday",           "name": "Yesterday",           "image": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?w=600&q=80", "vocabularyFile": "yesterday.json" },
-        { "id": "day-before-yesterday","name": "Day Before Yesterday","image": "https://images.unsplash.com/photo-1501139083538-0139583c060f?w=600&q=80", "vocabularyFile": "day-before-yesterday.json" },
-        { "id": "day-after-tomorrow",  "name": "Day After Tomorrow",  "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=600&q=80", "vocabularyFile": "day-after-tomorrow.json" },
-        { "id": "morning",             "name": "Morning",             "image": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?w=600&q=80", "vocabularyFile": "morning.json" },
-        { "id": "afternoon",           "name": "Afternoon",           "image": "https://images.unsplash.com/photo-1473496169904-658ba7574b0d?w=600&q=80", "vocabularyFile": "afternoon.json" },
-        { "id": "evening",             "name": "Evening",             "image": "https://images.unsplash.com/photo-1495616811223-4d98c6e9c869?w=600&q=80", "vocabularyFile": "evening.json" },
-        { "id": "night",               "name": "Night",               "image": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?w=600&q=80", "vocabularyFile": "night.json" },
-        { "id": "date",                "name": "Date",                "image": "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600&q=80", "vocabularyFile": "date.json" },
-        { "id": "week",                "name": "Week",                "image": "https://images.unsplash.com/photo-1572697656235-d3c84c43e0d5?w=600&q=80", "vocabularyFile": "week.json" },
-        { "id": "year",                "name": "Year",                "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=80", "vocabularyFile": "year.json" }
-      ]
-    },
-    {
-      "id": "nature-environment",
-      "name": "Nature & Environment",
-      "emoji": "🌍",
-      "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=600&q=80",
-      "subcategories": [
-        { "id": "animals",    "name": "Animals",    "image": "https://images.unsplash.com/photo-1474511320723-9a752d794b0f?w=600&q=80", "vocabularyFile": "animals.json" },
-        { "id": "birds",      "name": "Birds",      "image": "https://images.unsplash.com/photo-1444464666168-49d633b86797?w=600&q=80", "vocabularyFile": "birds.json" },
-        { "id": "insects",    "name": "Insects",    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&q=80", "vocabularyFile": "insects.json" },
-        { "id": "sea-animals","name": "Sea Animals","image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?w=600&q=80", "vocabularyFile": "sea-animals.json" },
-        { "id": "flowers",    "name": "Flowers",    "image": "https://images.unsplash.com/photo-1490750967868-88df5691cc47?w=600&q=80", "vocabularyFile": "flowers.json" },
-        { "id": "trees",      "name": "Trees",      "image": "https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?w=600&q=80", "vocabularyFile": "trees.json" },
-        { "id": "fruits",     "name": "Fruits",     "image": "https://images.unsplash.com/photo-1619566636858-adf3ef46400b?w=600&q=80", "vocabularyFile": "fruits.json" },
-        { "id": "vegetables", "name": "Vegetables", "image": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=600&q=80", "vocabularyFile": "vegetables.json" },
-        { "id": "nature",     "name": "Nature",     "image": "https://images.unsplash.com/photo-1426604966848-d7adac402bff?w=600&q=80", "vocabularyFile": "nature.json" },
-        { "id": "weather",    "name": "Weather",    "image": "https://images.unsplash.com/photo-1592210454359-9043f067919b?w=600&q=80", "vocabularyFile": "weather.json" },
-        { "id": "space",      "name": "Space",      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=600&q=80", "vocabularyFile": "space.json" }
-      ]
-    },
-    {
-      "id": "daily-life",
-      "name": "Daily Life",
-      "emoji": "🏠",
-      "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=600&q=80",
-      "subcategories": [
-        { "id": "family",        "name": "Family",          "image": "https://images.unsplash.com/photo-1511895426323-9c872c968173?w=600&q=80", "vocabularyFile": "family.json" },
-        { "id": "home",          "name": "Home",            "image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=600&q=80", "vocabularyFile": "home.json" },
-        { "id": "bedroom",       "name": "Bedroom English", "image": "https://images.unsplash.com/photo-1540518614846-7eded433c457?w=600&q=80", "vocabularyFile": "bedroom.json" },
-        { "id": "bathroom",      "name": "Bathroom English","image": "https://images.unsplash.com/photo-1620626011761-996317b8d101?w=600&q=80", "vocabularyFile": "bathroom.json" },
-        { "id": "kitchen",       "name": "Kitchen English", "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&q=80", "vocabularyFile": "kitchen.json" },
-        { "id": "living-room",   "name": "Living Room English","image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=600&q=80", "vocabularyFile": "living-room.json" },
-        { "id": "dining-room",   "name": "Dining Room English","image": "https://images.unsplash.com/photo-1617806118233-18e1de247200?w=600&q=80", "vocabularyFile": "dining-room.json" },
-        { "id": "clothes",       "name": "Clothes",         "image": "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?w=600&q=80", "vocabularyFile": "clothes.json" },
-        { "id": "body-parts",    "name": "Body Parts",      "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=600&q=80", "vocabularyFile": "body-parts.json" },
-        { "id": "health-hygiene","name": "Health & Hygiene","image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=600&q=80", "vocabularyFile": "health-hygiene.json" },
-        { "id": "daily-routine", "name": "Daily Routine",   "image": "https://images.unsplash.com/photo-1551218808-94e220e084d2?w=600&q=80", "vocabularyFile": "daily-routine.json" }
-      ]
-    },
-    {
-      "id": "school-places",
-      "name": "School & Places",
-      "emoji": "🎒",
-      "image": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=600&q=80",
-      "subcategories": [
-        { "id": "school",      "name": "School English",    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=600&q=80", "vocabularyFile": "school.json" },
-        { "id": "classroom",   "name": "Classroom English", "image": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=600&q=80", "vocabularyFile": "classroom.json" },
-        { "id": "office",      "name": "Office English",    "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&q=80", "vocabularyFile": "office.json" },
-        { "id": "hospital",    "name": "Hospital English",  "image": "https://images.unsplash.com/photo-1516841273335-e39b37888115?w=600&q=80", "vocabularyFile": "hospital.json" },
-        { "id": "market",      "name": "Market English",    "image": "https://images.unsplash.com/photo-1533900298318-6b8da08a523e?w=600&q=80", "vocabularyFile": "market.json" },
-        { "id": "restaurant",  "name": "Restaurant English","image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=600&q=80", "vocabularyFile": "restaurant.json" },
-        { "id": "function",    "name": "Function English",  "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=600&q=80", "vocabularyFile": "function.json" },
-        { "id": "temple",      "name": "Temple English",    "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?w=600&q=80", "vocabularyFile": "temple.json" },
-        { "id": "park",        "name": "Park English",      "image": "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=600&q=80", "vocabularyFile": "park.json" },
-        { "id": "playground",  "name": "Playground English","image": "https://images.unsplash.com/photo-1575783970733-1aaedde1db74?w=600&q=80", "vocabularyFile": "playground.json" },
-        { "id": "shopping",    "name": "Shopping English",  "image": "https://images.unsplash.com/photo-1483985988355-763728e1935b?w=600&q=80", "vocabularyFile": "shopping.json" }
-      ]
-    },
-    {
-      "id": "things-around-us",
-      "name": "Things Around Us",
-      "emoji": "🚗",
-      "image": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=600&q=80",
-      "subcategories": [
-        { "id": "vehicles",            "name": "Vehicles",           "image": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=600&q=80", "vocabularyFile": "vehicles.json" },
-        { "id": "technology",          "name": "Technology",         "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&q=80", "vocabularyFile": "technology.json" },
-        { "id": "tools",               "name": "Tools",              "image": "https://images.unsplash.com/photo-1530124566582-a618bc2615dc?w=600&q=80", "vocabularyFile": "tools.json" },
-        { "id": "furniture",           "name": "Furniture",          "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=600&q=80", "vocabularyFile": "furniture.json" },
-        { "id": "household-items",     "name": "Household Items",    "image": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=600&q=80", "vocabularyFile": "household-items.json" },
-        { "id": "school-items",        "name": "School Items",       "image": "https://images.unsplash.com/photo-1456735190827-d1262f71b8a3?w=600&q=80", "vocabularyFile": "school-items.json" },
-        { "id": "kitchen-items",       "name": "Kitchen Items",      "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&q=80", "vocabularyFile": "kitchen-items.json" },
-        { "id": "musical-instruments", "name": "Musical Instruments","image": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?w=600&q=80", "vocabularyFile": "musical-instruments.json" },
-        { "id": "sports-items",        "name": "Sports Items",       "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600&q=80", "vocabularyFile": "sports-items.json" },
-        { "id": "toys",                "name": "Toys",               "image": "https://images.unsplash.com/photo-1558060370-9796a8c8f1c2?w=600&q=80", "vocabularyFile": "toys.json" }
-      ]
-    },
-    {
-      "id": "english-vocabulary",
-      "name": "English Vocabulary",
-      "emoji": "💬",
-      "image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=600&q=80",
-      "subcategories": [
-        { "id": "action-words",     "name": "Action Words",    "image": "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?w=600&q=80", "vocabularyFile": "action-words.json" },
-        { "id": "emotions",         "name": "Emotions",        "image": "https://images.unsplash.com/photo-1493836512294-502baa1986e2?w=600&q=80", "vocabularyFile": "emotions.json" },
-        { "id": "feelings",         "name": "Feelings",        "image": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=600&q=80", "vocabularyFile": "feelings.json" },
-        { "id": "verbs",            "name": "Verbs",           "image": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=600&q=80", "vocabularyFile": "verbs.json" },
-        { "id": "nouns",            "name": "Nouns",           "image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=600&q=80", "vocabularyFile": "nouns.json" },
-        { "id": "adjectives",       "name": "Adjectives",      "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=600&q=80", "vocabularyFile": "adjectives.json" },
-        { "id": "adverbs",          "name": "Adverbs",         "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=600&q=80", "vocabularyFile": "adverbs.json" },
-        { "id": "pronouns",         "name": "Pronouns",        "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=600&q=80", "vocabularyFile": "pronouns.json" },
-        { "id": "question-words",   "name": "Question Words",  "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=80", "vocabularyFile": "question-words.json" },
-        { "id": "personality-words","name": "Personality Words","image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&q=80", "vocabularyFile": "personality-words.json" },
-        { "id": "prep-in",      "name": "In",       "image": "https://images.unsplash.com/photo-1585412727339-54e4bae3bbf9?w=600&q=80", "vocabularyFile": "prep-in.json" },
-        { "id": "prep-on",      "name": "On",       "image": "https://images.unsplash.com/photo-1544919982-b61976f0ba43?w=600&q=80", "vocabularyFile": "prep-on.json" },
-        { "id": "prep-under",   "name": "Under",    "image": "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=600&q=80", "vocabularyFile": "prep-under.json" },
-        { "id": "prep-behind",  "name": "Behind",   "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&q=80", "vocabularyFile": "prep-behind.json" },
-        { "id": "prep-between", "name": "Between",  "image": "https://images.unsplash.com/photo-1528360983277-13d401cdc186?w=600&q=80", "vocabularyFile": "prep-between.json" },
-        { "id": "prep-before",  "name": "Before",   "image": "https://images.unsplash.com/photo-1501139083538-0139583c060f?w=600&q=80", "vocabularyFile": "prep-before.json" },
-        { "id": "prep-after",   "name": "After",    "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=600&q=80", "vocabularyFile": "prep-after.json" },
-        { "id": "prep-near",    "name": "Near",     "image": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=600&q=80", "vocabularyFile": "prep-near.json" },
-        { "id": "prep-beside",  "name": "Beside",   "image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=600&q=80", "vocabularyFile": "prep-beside.json" },
-        { "id": "prep-over",    "name": "Over",     "image": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=600&q=80", "vocabularyFile": "prep-over.json" },
-        { "id": "prep-across",  "name": "Across",   "image": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=600&q=80", "vocabularyFile": "prep-across.json" },
-        { "id": "prep-through", "name": "Through",  "image": "https://images.unsplash.com/photo-1510797215324-95aa89f43c33?w=600&q=80", "vocabularyFile": "prep-through.json" },
-        { "id": "dir-left",     "name": "Left",     "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=600&q=80", "vocabularyFile": "dir-left.json" },
-        { "id": "dir-right",    "name": "Right",    "image": "https://images.unsplash.com/photo-1474631245212-32dc3c8310c6?w=600&q=80", "vocabularyFile": "dir-right.json" },
-        { "id": "dir-straight", "name": "Straight", "image": "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=600&q=80", "vocabularyFile": "dir-straight.json" },
-        { "id": "dir-up",       "name": "Up",       "image": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=600&q=80", "vocabularyFile": "dir-up.json" },
-        { "id": "dir-down",     "name": "Down",     "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=600&q=80", "vocabularyFile": "dir-down.json" }
-      ]
-    },
-    {
-      "id": "daily-spoken-english",
-      "name": "Daily Spoken English",
+      "id": "communication",
+      "name": "Communication",
       "emoji": "🗣️",
-      "image": "https://images.unsplash.com/photo-1543269865-cbf427effbad?w=600&q=80",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
       "subcategories": [
-        { "id": "greetings",             "name": "Greetings",             "image": "https://images.unsplash.com/photo-1573497019940-1c28e77f87e7?w=600&q=80", "vocabularyFile": "greetings.json" },
-        { "id": "introductions",         "name": "Introductions",         "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=600&q=80", "vocabularyFile": "introductions.json" },
-        { "id": "polite-words",          "name": "Polite Words",          "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=600&q=80", "vocabularyFile": "polite-words.json" },
-        { "id": "daily-conversation",    "name": "Daily Conversation",    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=80", "vocabularyFile": "daily-conversation.json" },
-        { "id": "asking-questions",      "name": "Asking Questions",      "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=600&q=80", "vocabularyFile": "asking-questions.json" },
-        { "id": "answering-questions",   "name": "Answering Questions",   "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&q=80", "vocabularyFile": "answering-questions.json" },
-        { "id": "phone-conversation",    "name": "Phone Conversation",    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=600&q=80", "vocabularyFile": "phone-conversation.json" },
-        { "id": "classroom-conversation","name": "Classroom Conversation","image": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=600&q=80", "vocabularyFile": "classroom-conversation.json" },
-        { "id": "shopping-conversation", "name": "Shopping Conversation", "image": "https://images.unsplash.com/photo-1483985988355-763728e1935b?w=600&q=80", "vocabularyFile": "shopping-conversation.json" },
-        { "id": "travel-conversation",   "name": "Travel Conversation",   "image": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=600&q=80", "vocabularyFile": "travel-conversation.json" },
-        { "id": "emergency-english",     "name": "Emergency English",     "image": "https://images.unsplash.com/photo-1516841273335-e39b37888115?w=600&q=80", "vocabularyFile": "emergency-english.json" }
+        { "id": "greetings_phrases",  "name": "Greetings & Phrases",  "image": "https://images.unsplash.com/photo-1543269664-647163ec6be7?w=600&q=80", "vocabularyFile": "greetings_phrases.json" },
+        { "id": "commands",           "name": "Commands & Instructions","image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=600&q=80", "vocabularyFile": "commands.json" },
+        { "id": "action_words",       "name": "Action Words",          "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=600&q=80", "vocabularyFile": "action_words.json" },
+        { "id": "object_actions",     "name": "Object Actions",        "image": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=600&q=80", "vocabularyFile": "object_actions.json" },
+        { "id": "advanced_words",     "name": "Advanced Words",        "image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=600&q=80", "vocabularyFile": "advanced_words.json" },
+        { "id": "cognitive_words",    "name": "Thinking & Cognitive",  "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=80", "vocabularyFile": "cognitive_words.json" }
       ]
     },
     {
-      "id": "real-life-actions",
-      "name": "Real-Life Actions",
-      "emoji": "🤝",
-      "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=600&q=80",
+      "id": "concepts",
+      "name": "Concepts",
+      "emoji": "🧭",
+      "image": "https://images.unsplash.com/photo-1509869175650-a1d97972541a?w=600&q=80",
       "subcategories": [
-        { "id": "give",      "name": "Give",      "image": "https://images.unsplash.com/photo-1469571486292-0ba58a3f068b?w=600&q=80", "vocabularyFile": "give.json" },
-        { "id": "take",      "name": "Take",      "image": "https://images.unsplash.com/photo-1567174297015-55dba83e52b4?w=600&q=80", "vocabularyFile": "take.json" },
-        { "id": "bring",     "name": "Bring",     "image": "https://images.unsplash.com/photo-1544027994-f4cf36e00a39?w=600&q=80", "vocabularyFile": "bring.json" },
-        { "id": "carry",     "name": "Carry",     "image": "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?w=600&q=80", "vocabularyFile": "carry.json" },
-        { "id": "open",      "name": "Open",      "image": "https://images.unsplash.com/photo-1558618047-3c8c76ca0d92?w=600&q=80", "vocabularyFile": "open.json" },
-        { "id": "close",     "name": "Close",     "image": "https://images.unsplash.com/photo-1506377711776-dbdc2f3a20cb?w=600&q=80", "vocabularyFile": "close.json" },
-        { "id": "push",      "name": "Push",      "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=600&q=80", "vocabularyFile": "push.json" },
-        { "id": "pull",      "name": "Pull",      "image": "https://images.unsplash.com/photo-1548690312-e3b507d8c110?w=600&q=80", "vocabularyFile": "pull.json" },
-        { "id": "sit",       "name": "Sit",       "image": "https://images.unsplash.com/photo-1519947486511-46149fa0a254?w=600&q=80", "vocabularyFile": "sit.json" },
-        { "id": "stand",     "name": "Stand",     "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80", "vocabularyFile": "stand.json" },
-        { "id": "walk",      "name": "Walk",      "image": "https://images.unsplash.com/photo-1476480862126-209bfaa8edc8?w=600&q=80", "vocabularyFile": "walk.json" },
-        { "id": "run",       "name": "Run",       "image": "https://images.unsplash.com/photo-1571008887538-b36bb32f4571?w=600&q=80", "vocabularyFile": "run.json" },
-        { "id": "jump",      "name": "Jump",      "image": "https://images.unsplash.com/photo-1454023492550-5696f8ff10e1?w=600&q=80", "vocabularyFile": "jump.json" },
-        { "id": "eat",       "name": "Eat",       "image": "https://images.unsplash.com/photo-1555243896-c709bfa0b564?w=600&q=80", "vocabularyFile": "eat.json" },
-        { "id": "drink",     "name": "Drink",     "image": "https://images.unsplash.com/photo-1546173159-315724a316e0?w=600&q=80", "vocabularyFile": "drink.json" },
-        { "id": "sleep",     "name": "Sleep",     "image": "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=600&q=80", "vocabularyFile": "sleep.json" },
-        { "id": "wake-up",   "name": "Wake Up",   "image": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?w=600&q=80", "vocabularyFile": "wake-up.json" },
-        { "id": "handshake", "name": "Handshake", "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=600&q=80", "vocabularyFile": "handshake.json" },
-        { "id": "clap",      "name": "Clap",      "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=600&q=80", "vocabularyFile": "clap.json" },
-        { "id": "wave",      "name": "Wave",      "image": "https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?w=600&q=80", "vocabularyFile": "wave.json" },
-        { "id": "pick-up",   "name": "Pick Up",   "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600&q=80", "vocabularyFile": "pick-up.json" },
-        { "id": "put-down",  "name": "Put Down",  "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80", "vocabularyFile": "put-down.json" },
-        { "id": "switch-on", "name": "Switch On", "image": "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?w=600&q=80", "vocabularyFile": "switch-on.json" },
-        { "id": "switch-off","name": "Switch Off","image": "https://images.unsplash.com/photo-1597002973885-8c90683fa6e0?w=600&q=80", "vocabularyFile": "switch-off.json" },
-        { "id": "wear",      "name": "Wear",      "image": "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?w=600&q=80", "vocabularyFile": "wear.json" },
-        { "id": "remove",    "name": "Remove",    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600&q=80", "vocabularyFile": "remove.json" },
-        { "id": "throw",     "name": "Throw",     "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600&q=80", "vocabularyFile": "throw.json" },
-        { "id": "catch",     "name": "Catch",     "image": "https://images.unsplash.com/photo-1486218119243-13883505764c?w=600&q=80", "vocabularyFile": "catch.json" },
-        { "id": "lift",      "name": "Lift",      "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=600&q=80", "vocabularyFile": "lift.json" },
-        { "id": "drop",      "name": "Drop",      "image": "https://images.unsplash.com/photo-1488998427799-e3362cec87c3?w=600&q=80", "vocabularyFile": "drop.json" }
+        { "id": "directions",    "name": "Directions",    "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?w=600&q=80", "vocabularyFile": "directions.json" },
+        { "id": "prepositions",  "name": "Prepositions",  "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=600&q=80", "vocabularyFile": "prepositions.json" },
+        { "id": "symbols",       "name": "Common Symbols","image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&q=80", "vocabularyFile": "symbols.json" },
+        { "id": "time",          "name": "Time",          "image": "https://images.unsplash.com/photo-1501139083538-0139583c060f?w=600&q=80", "vocabularyFile": "time.json" },
+        { "id": "days",          "name": "Days of the Week","image": "https://images.unsplash.com/photo-1506784365847-bbad939e9335?w=600&q=80", "vocabularyFile": "days.json" },
+        { "id": "months",        "name": "Months of the Year","image": "https://images.unsplash.com/photo-1508193638397-1c4234db14d8?w=600&q=80", "vocabularyFile": "months.json" }
       ]
     },
     {
-      "id": "learning-zone",
-      "name": "Learning Zone",
-      "emoji": "🎓",
-      "image": "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=600&q=80",
+      "id": "world_around_us",
+      "name": "World Around Us",
+      "emoji": "🚗",
+      "image": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=600&q=80",
       "subcategories": [
-        { "id": "phonics",           "name": "Phonics",           "image": "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=600&q=80", "vocabularyFile": "phonics.json" },
-        { "id": "cvc-words",         "name": "CVC Words",         "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=80", "vocabularyFile": "cvc-words.json" },
-        { "id": "sight-words",       "name": "Sight Words",       "image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=600&q=80", "vocabularyFile": "sight-words.json" },
-        { "id": "rhyming-words",     "name": "Rhyming Words",     "image": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=600&q=80", "vocabularyFile": "rhyming-words.json" },
-        { "id": "flash-cards",       "name": "Flash Cards",       "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=600&q=80", "vocabularyFile": "flash-cards.json" },
-        { "id": "listening-practice","name": "Listening Practice","image": "https://images.unsplash.com/photo-1512446816042-444d641267d4?w=600&q=80", "vocabularyFile": "listening-practice.json" },
-        { "id": "picture-quiz",      "name": "Picture Quiz",      "image": "https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?w=600&q=80", "vocabularyFile": "picture-quiz.json" },
-        { "id": "audio-quiz",        "name": "Audio Quiz",        "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?w=600&q=80", "vocabularyFile": "audio-quiz.json" },
-        { "id": "revision",          "name": "Revision",          "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=600&q=80", "vocabularyFile": "revision.json" },
-        { "id": "favorites",         "name": "Favorites",         "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=600&q=80", "vocabularyFile": "favorites.json" }
+        { "id": "transport",         "name": "Transport",         "image": "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=600&q=80", "vocabularyFile": "transport.json" },
+        { "id": "tools",             "name": "Tools",             "image": "https://images.unsplash.com/photo-1530124566582-a618bc2615dc?w=600&q=80", "vocabularyFile": "tools.json" },
+        { "id": "places",            "name": "Places",            "image": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=600&q=80", "vocabularyFile": "places.json" },
+        { "id": "national_symbols",  "name": "National Symbols",  "image": "https://images.unsplash.com/photo-1532375810709-75b1da00537c?w=600&q=80", "vocabularyFile": "national_symbols.json" }
+      ]
+    },
+    {
+      "id": "arts_creativity",
+      "name": "Arts & Creativity",
+      "emoji": "🎨",
+      "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=600&q=80",
+      "subcategories": [
+        { "id": "arts_crafts", "name": "Arts & Crafts", "image": "https://images.unsplash.com/photo-1452860606245-08befc0ff44b?w=600&q=80", "vocabularyFile": "arts_crafts.json" }
+      
       ]
     }
   ]

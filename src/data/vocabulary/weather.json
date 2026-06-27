@@ -2,137 +2,46 @@
   "id": "weather",
   "name": "Weather",
   "items": [
-    {
-      "id": "sun",
-      "name": "Sun",
-      "image": "https://images.unsplash.com/photo-1500000000342?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "rain",
-      "name": "Rain",
-      "image": "https://images.unsplash.com/photo-1500000000426?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "cloud",
-      "name": "Cloud",
-      "image": "https://images.unsplash.com/photo-1500000000535?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "wind",
-      "name": "Wind",
-      "image": "https://images.unsplash.com/photo-1500000000434?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "snow",
-      "name": "Snow",
-      "image": "https://images.unsplash.com/photo-1500000000455?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "storm",
-      "name": "Storm",
-      "image": "https://images.unsplash.com/photo-1500000000565?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "thunder",
-      "name": "Thunder",
-      "image": "https://images.unsplash.com/photo-1500000000762?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "lightning",
-      "name": "Lightning",
-      "image": "https://images.unsplash.com/photo-1500000000964?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "rainbow",
-      "name": "Rainbow",
-      "image": "https://images.unsplash.com/photo-1500000000754?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "fog",
-      "name": "Fog",
-      "image": "https://images.unsplash.com/photo-1500000000316?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "hail",
-      "name": "Hail",
-      "image": "https://images.unsplash.com/photo-1500000000414?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "drought",
-      "name": "Drought",
-      "image": "https://images.unsplash.com/photo-1500000000765?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "flood",
-      "name": "Flood",
-      "image": "https://images.unsplash.com/photo-1500000000532?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "breeze",
-      "name": "Breeze",
-      "image": "https://images.unsplash.com/photo-1500000000637?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "heatwave",
-      "name": "Heatwave",
-      "image": "https://images.unsplash.com/photo-1500000000853?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "cold",
-      "name": "Cold",
-      "image": "https://images.unsplash.com/photo-1500000000418?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "warm",
-      "name": "Warm",
-      "image": "https://images.unsplash.com/photo-1500000000439?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "humid",
-      "name": "Humid",
-      "image": "https://images.unsplash.com/photo-1500000000535?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "dry",
-      "name": "Dry",
-      "image": "https://images.unsplash.com/photo-1500000000335?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "forecast",
-      "name": "Forecast",
-      "image": "https://images.unsplash.com/photo-1500000000855?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "temperature",
-      "name": "Temperature",
-      "image": "https://images.unsplash.com/photo-1500000001198?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    },
-    {
-      "id": "climate",
-      "name": "Climate",
-      "image": "https://images.unsplash.com/photo-1500000000735?w=800&q=80&auto=format&fit=crop",
-      "audio": null
-    }
+    { "id": "sunny", "name": "Sunny", "image": null, "audio": null },
+    { "id": "cloudy", "name": "Cloudy", "image": null, "audio": null },
+    { "id": "partly_cloudy", "name": "Partly Cloudy", "image": null, "audio": null },
+    { "id": "rainy", "name": "Rainy", "image": null, "audio": null },
+    { "id": "stormy", "name": "Stormy", "image": null, "audio": null },
+    { "id": "windy", "name": "Windy", "image": null, "audio": null },
+    { "id": "snowy", "name": "Snowy", "image": null, "audio": null },
+    { "id": "foggy", "name": "Foggy", "image": null, "audio": null },
+    { "id": "misty", "name": "Misty", "image": null, "audio": null },
+    { "id": "hot", "name": "Hot", "image": null, "audio": null },
+    { "id": "cold", "name": "Cold", "image": null, "audio": null },
+    { "id": "warm", "name": "Warm", "image": null, "audio": null },
+    { "id": "cool", "name": "Cool", "image": null, "audio": null },
+    { "id": "humid", "name": "Humid", "image": null, "audio": null },
+    { "id": "dry", "name": "Dry", "image": null, "audio": null },
+    { "id": "breezy", "name": "Breezy", "image": null, "audio": null },
+    { "id": "hail", "name": "Hail", "image": null, "audio": null },
+    { "id": "hurricane", "name": "Hurricane", "image": null, "audio": null },
+    { "id": "tornado", "name": "Tornado", "image": null, "audio": null },
+    { "id": "cyclone", "name": "Cyclone", "image": null, "audio": null },
+    { "id": "blizzard", "name": "Blizzard", "image": null, "audio": null },
+    { "id": "drizzle", "name": "Drizzle", "image": null, "audio": null },
+    { "id": "heavy_rain", "name": "Heavy Rain", "image": null, "audio": null },
+    { "id": "light_rain", "name": "Light Rain", "image": null, "audio": null },
+    { "id": "shower", "name": "Shower", "image": null, "audio": null },
+    { "id": "thunderstorm", "name": "Thunderstorm", "image": null, "audio": null },
+    { "id": "frost", "name": "Frost", "image": null, "audio": null },
+    { "id": "heatwave", "name": "Heatwave", "image": null, "audio": null },
+    { "id": "dust_storm", "name": "Dust Storm", "image": null, "audio": null },
+    { "id": "day", "name": "Day", "image": null, "audio": null },
+    { "id": "night", "name": "Night", "image": null, "audio": null },
+    { "id": "morning", "name": "Morning", "image": null, "audio": null },
+    { "id": "afternoon", "name": "Afternoon", "image": null, "audio": null },
+    { "id": "evening", "name": "Evening", "image": null, "audio": null },
+    { "id": "temperature", "name": "Temperature", "image": null, "audio": null },
+    { "id": "weather", "name": "Weather", "image": null, "audio": null },
+    { "id": "season", "name": "Season", "image": null, "audio": null },
+    { "id": "spring", "name": "Spring", "image": null, "audio": null },
+    { "id": "summer", "name": "Summer", "image": null, "audio": null },
+    { "id": "winter", "name": "Winter", "image": null, "audio": null },
+    { "id": "autumn", "name": "Autumn", "image": null, "audio": null }
   ]
 }

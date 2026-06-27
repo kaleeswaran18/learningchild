@@ -1,0 +1,156 @@
+{
+  "id": "lines",
+  "name": "Lines",
+  "items": [
+    {
+      "id": "line",
+      "name": "Line",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "straight_line",
+      "name": "Straight Line",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "curved_line",
+      "name": "Curved Line",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "zigzag_line",
+      "name": "Zigzag Line",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "wavy_line",
+      "name": "Wavy Line",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "horizontal_line",
+      "name": "Horizontal Line",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "vertical_line",
+      "name": "Vertical Line",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "diagonal_line",
+      "name": "Diagonal Line",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "broken_line",
+      "name": "Broken Line",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "dotted_line",
+      "name": "Dotted Line",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "dashed_line",
+      "name": "Dashed Line",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "parallel_lines",
+      "name": "Parallel Lines",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "crossing_lines",
+      "name": "Crossing Lines",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "intersecting_lines",
+      "name": "Intersecting Lines",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "thick_line",
+      "name": "Thick Line",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "thin_line",
+      "name": "Thin Line",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "long_line",
+      "name": "Long Line",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "short_line",
+      "name": "Short Line",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "arrow_line",
+      "name": "Arrow Line",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "loop_line",
+      "name": "Loop Line",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "spiral_line",
+      "name": "Spiral Line",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "curly_line",
+      "name": "Curly Line",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "upward_line",
+      "name": "Upward Line",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "downward_line",
+      "name": "Downward Line",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "pattern_line",
+      "name": "Pattern Line",
+      "image": "",
+      "audio": null
+    }
+  ]
+}

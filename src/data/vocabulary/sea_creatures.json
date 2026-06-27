@@ -1,0 +1,14 @@
+{
+  "id": "sea_creatures",
+  "name": "Sea Creatures",
+  "items": [
+    { "id": "fish", "name": "Fish", "image": null, "audio": null },
+    { "id": "shark", "name": "Shark", "image": null, "audio": null },
+    { "id": "whale", "name": "Whale", "image": null, "audio": null },
+    { "id": "dolphin", "name": "Dolphin", "image": null, "audio": null },
+    { "id": "octopus", "name": "Octopus", "image": null, "audio": null },
+    { "id": "squid", "name": "Squid", "image": null, "audio": null },
+    { "id": "crab", "name": "Crab", "image": null, "audio": null },
+    { "id": "lobster", "name": "Lobster", "image": null, "audio": null }
+  ]
+}

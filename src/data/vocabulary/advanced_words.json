@@ -1,124 +1,124 @@
 {
-  "id": "family",
-  "name": "Family",
+  "id": "advanced_words",
+  "name": "Advanced Words",
   "items": [
     {
-      "id": "neighbor",
-      "name": "Neighbor",
+      "id": "hesitate",
+      "name": "Hesitate",
       "image": "",
       "audio": null
     },
     {
-      "id": "father",
-      "name": "Father",
+      "id": "respect",
+      "name": "Respect",
       "image": "",
       "audio": null
     },
     {
-      "id": "mother",
-      "name": "Mother",
+      "id": "encourage",
+      "name": "Encourage",
       "image": "",
       "audio": null
     },
     {
-      "id": "brother",
-      "name": "Brother",
+      "id": "celebrate",
+      "name": "Celebrate",
       "image": "",
       "audio": null
     },
     {
-      "id": "sister",
-      "name": "Sister",
+      "id": "apologize",
+      "name": "Apologize",
       "image": "",
       "audio": null
     },
     {
-      "id": "baby",
-      "name": "Baby",
+      "id": "promise",
+      "name": "Promise",
       "image": "",
       "audio": null
     },
     {
-      "id": "grandfather",
-      "name": "Grandfather",
+      "id": "accept",
+      "name": "Accept",
       "image": "",
       "audio": null
     },
     {
-      "id": "grandmother",
-      "name": "Grandmother",
+      "id": "refuse",
+      "name": "Refuse",
       "image": "",
       "audio": null
     },
     {
-      "id": "uncle",
-      "name": "Uncle",
+      "id": "protect",
+      "name": "Protect",
       "image": "",
       "audio": null
     },
     {
-      "id": "aunt",
-      "name": "Aunt",
+      "id": "support",
+      "name": "Support",
       "image": "",
       "audio": null
     },
     {
-      "id": "cousin",
-      "name": "Cousin",
+      "id": "care",
+      "name": "Care",
       "image": "",
       "audio": null
     },
     {
-      "id": "son",
-      "name": "Son",
+      "id": "trust",
+      "name": "Trust",
       "image": "",
       "audio": null
     },
     {
-      "id": "daughter",
-      "name": "Daughter",
+      "id": "agree",
+      "name": "Agree",
       "image": "",
       "audio": null
     },
     {
-      "id": "grandpa",
-      "name": "Grandpa",
+      "id": "disagree",
+      "name": "Disagree",
       "image": "",
       "audio": null
     },
     {
-      "id": "grandma",
-      "name": "Grandma",
+      "id": "succeed",
+      "name": "Succeed",
       "image": "",
       "audio": null
     },
     {
-      "id": "boy",
-      "name": "Boy",
+      "id": "fail",
+      "name": "Fail",
       "image": "",
       "audio": null
     },
     {
-      "id": "girl",
-      "name": "Girl",
+      "id": "win",
+      "name": "Win",
       "image": "",
       "audio": null
     },
     {
-      "id": "child",
-      "name": "Child",
+      "id": "lose",
+      "name": "Lose",
       "image": "",
       "audio": null
     },
     {
-      "id": "parents",
-      "name": "Parents",
+      "id": "achieve",
+      "name": "Achieve",
       "image": "",
       "audio": null
     },
     {
-      "id": "home",
-      "name": "Home",
+      "id": "inspire",
+      "name": "Inspire",
       "image": "",
       "audio": null
     }

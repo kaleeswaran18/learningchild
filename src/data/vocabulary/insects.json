@@ -1,0 +1,18 @@
+{
+  "id": "insects",
+  "name": "Insects",
+  "items": [
+    { "id": "starfish", "name": "Starfish", "image": null, "audio": null },
+    { "id": "seahorse", "name": "Seahorse", "image": null, "audio": null },
+    { "id": "butterfly", "name": "Butterfly", "image": null, "audio": null },
+    { "id": "bee", "name": "Bee", "image": null, "audio": null },
+    { "id": "ant", "name": "Ant", "image": null, "audio": null },
+    { "id": "spider", "name": "Spider", "image": null, "audio": null },
+    { "id": "ladybug", "name": "Ladybug", "image": null, "audio": null },
+    { "id": "dragonfly", "name": "Dragonfly", "image": null, "audio": null },
+    { "id": "grasshopper", "name": "Grasshopper", "image": null, "audio": null },
+    { "id": "snail", "name": "Snail", "image": null, "audio": null },
+    { "id": "worm", "name": "Worm", "image": null, "audio": null },
+    { "id": "caterpillar", "name": "Caterpillar", "image": null, "audio": null }
+  ]
+}

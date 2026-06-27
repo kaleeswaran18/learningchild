@@ -1,0 +1,13 @@
+{
+  "id": "reptiles_amphibians",
+  "name": "Reptiles & Amphibians",
+  "items": [
+    { "id": "snake", "name": "Snake", "image": null, "audio": null },
+    { "id": "lizard", "name": "Lizard", "image": null, "audio": null },
+    { "id": "crocodile", "name": "Crocodile", "image": null, "audio": null },
+    { "id": "alligator", "name": "Alligator", "image": null, "audio": null },
+    { "id": "turtle", "name": "Turtle", "image": null, "audio": null },
+    { "id": "tortoise", "name": "Tortoise", "image": null, "audio": null },
+    { "id": "frog", "name": "Frog", "image": null, "audio": null }
+  ]
+}
