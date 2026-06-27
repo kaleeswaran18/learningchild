@@ -1,22 +1,61 @@
+/* =========================
+   Layout
+========================= */
+
 .layout {
   min-height: 100dvh;
   display: flex;
   flex-direction: column;
+  background: var(--color-bg);
 }
+
+/* Main Content */
 
 .layout__main {
   flex: 1;
   display: flex;
   flex-direction: column;
-  padding-bottom: var(--bottom-nav-height);
+
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+
+  /* Header spacing */
+  padding-top: var(--header-height, 72px);
+
+  /* Bottom Navigation */
+  padding-bottom: calc(var(--bottom-nav-height) + env(safe-area-inset-bottom));
+
+  box-sizing: border-box;
 }
 
-@media (min-width: 768px) {
+/* Learning pages don't have bottom navigation */
+
+.layout--learning .layout__main {
+  padding-bottom: env(safe-area-inset-bottom);
+}
+
+/* Tablet */
+
+@media (max-width: 1024px) {
   .layout__main {
-    padding-bottom: 0;
+    padding-top: 68px;
   }
 }
 
-.layout--learning .layout__main {
-  padding-bottom: 0;
+/* Mobile */
+
+@media (max-width: 768px) {
+  .layout__main {
+    padding-top: 64px;
+    padding-bottom: calc(var(--bottom-nav-height) + env(safe-area-inset-bottom));
+  }
+}
+
+/* Small Mobile */
+
+@media (max-width: 480px) {
+  .layout__main {
+    padding-top: 60px;
+  }
 }
